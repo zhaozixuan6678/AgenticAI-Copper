@@ -12,4 +12,4 @@
 	•	🌍 Cross-alloy generalization: Stable performance across Cu–Ni–Si, Cu–Cr, and Cu-based systems
 
 ## 🚪 Research Overview
-<img width="1048" alt="3" src="https://github.com/zhaozixuan6678/DualTrack-MatExtractor/blob/main/Assets/DualTrack-MatExtractor2.png?raw=true">
+<img width="3042" height="2338" alt="Image" src="https://github.com/user-attachments/assets/a4b1228f-4188-420c-bd82-3f634e919589" />
