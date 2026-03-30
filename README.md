@@ -6,15 +6,15 @@
 
 ## 🐳 Highlights
 
-## 🚀 From papers to predictions: Automatically extract CPSP knowledge from 80k+ materials literature
+### 🚀 From papers to predictions: Automatically extract CPSP knowledge from 80k+ materials literature
 
-## 🤖 Agentic AI workflow: Replace manual ML pipelines with autonomous decision-making agents
+### 🤖 Agentic AI workflow: Replace manual ML pipelines with autonomous decision-making agents
 
-## ⚡ One prompt → full prediction: From composition & processing to properties in a single step
+### ⚡ One prompt → full prediction: From composition & processing to properties in a single step
 
-## 📊 Multi-objective optimization: Simultaneously predict hardness, conductivity, and Q3-Euclidean
+### 📊 Multi-objective optimization: Simultaneously predict hardness, conductivity, and Q3-Euclidean
 
-## 🌍 Cross-alloy generalization: Stable performance across Cu–Ni–Si, Cu–Cr, and Cu-based systems
+### 🌍 Cross-alloy generalization: Stable performance across Cu–Ni–Si, Cu–Cr, and Cu-based systems
 
 ## 🚪 Research Overview
 <img width="3042" height="2338" alt="Image" src="https://github.com/user-attachments/assets/a4b1228f-4188-420c-bd82-3f634e919589" />
