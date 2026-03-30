@@ -1,0 +1,41 @@
+# =============================================================
+#  Materials Science Dashboard — Pinned Dependencies
+#  Generated: 2026-03-20
+#
+#  Key constraint: scikit-learn==1.8.0
+#  All versions below are verified compatible with each other.
+#  Fixes the '_fill_dtype' AttributeError caused by loading
+#  models saved with scikit-learn < 1.4 on a newer runtime.
+#  The correct solution is to RE-TRAIN your .pkl models once
+#  with this environment so they are saved at sklearn 1.8.0.
+# =============================================================
+
+# ── Web UI ────────────────────────────────────────────────────
+streamlit==1.45.1
+
+# ── Visualisation ─────────────────────────────────────────────
+plotly==6.0.1
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# ── Data / Numerics ───────────────────────────────────────────
+pandas==3.0.1
+numpy==2.4.2
+openpyxl==3.1.5
+
+# ── Machine Learning ──────────────────────────────────────────
+# IMPORTANT: must match the sklearn version used to TRAIN the
+# .pkl model files. Re-train after upgrading to avoid
+# 'SimpleImputer object has no attribute _fill_dtype'.
+scikit-learn==1.8.0
+catboost==1.2.7
+
+# ── LLM / Agent ───────────────────────────────────────────────
+langchain==0.3.25
+langchain-core==0.3.58
+langchain-community==0.3.24
+openai==1.75.0
+
+# ── Utilities ─────────────────────────────────────────────────
+python-dotenv==1.2.1
+

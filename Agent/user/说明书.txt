@@ -1,0 +1,54 @@
+# Cu-Agent 依赖说明（Windows）
+# ========================================
+# 1. 创建虚拟环境
+#    conda create -n alloy_ml python=3.11 -y
+#    conda activate alloy_ml
+#
+# 2. 安装依赖
+#    python -m pip install --upgrade pip
+#    python -m pip install -r requirements.txt
+#
+# 3. 如果出现 NumPy 2.x 兼容问题，再执行
+#    python -m pip install --no-cache-dir "numpy<2"
+#
+# 4. 启动程序
+#    进入项目目录后，运行：
+#    cd /d D:\\你的项目路径\\Cu-Agent\\user
+#    set STREAMLIT_SERVER_HEADLESS=1
+#    python -m streamlit run app.py
+#
+# 5. 浏览器打开
+#    http://localhost:8501
+#
+# 6. 如果缺少某个模块
+#    在当前虚拟环境中执行：
+#    python -m pip install 包名
+# ========================================
+
+# Cu-Agent 依赖说明（macOS）
+# ========================================
+# 1. 创建虚拟环境
+#    conda create -n alloy_ml python=3.11 -y
+#    conda activate alloy_ml
+#
+# 2. 安装依赖
+#    python -m pip install --upgrade pip
+#    python -m pip install -r requirements.txt
+#
+# 3. 如果出现 NumPy 2.x 兼容问题，再执行
+#    python -m pip install --no-cache-dir "numpy<2"
+#/Users/zixuanzhao/Desktop/MKG/Agent
+# 4. 启动程序
+#    进入项目目录后，运行：
+#    cd "/Users/你的用户名/项目路径/Cu-Agent/user"
+#    cd "/Users/zixuanzhao/Desktop/MKG/Agent/user"
+#    export STREAMLIT_SERVER_HEADLESS=1
+#    python -m streamlit run app.py
+#
+# 5. 浏览器打开
+#    http://localhost:8501
+#
+# 6. 如果缺少某个模块
+#    在当前虚拟环境中执行：
+#    python -m pip install 包名
+# ========================================
